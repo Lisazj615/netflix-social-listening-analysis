@@ -1,6 +1,6 @@
 # Netflix Social Listening & Sentiment Analysis
 
-A marketing analytics case study exploring how audience sentiment in Netflix-related Twitter conversations relates to user engagement and content amplification.
+This case study employs exploratory data analysis and natural language processing (NLP) techniques to identify how audience sentiment in Netflix-related Twitter conversations relates to user engagement and content amplification.
 
 ---
 
@@ -57,23 +57,6 @@ A manually validated sample of 50 tweets was used to assess sentiment classifica
 
 Created visual summaries to support non-technical stakeholder understanding.
 
----
-
-## Key Visual Insights
-
-### Sentiment Distribution
-
-![Sentiment Distribution](outputs/sentiment_distribution.png)
-
-### Average Engagement by Sentiment
-
-![Engagement by Sentiment](outputs/engagement_by_sentiment.png)
-
-### Sentiment by Tweet Type
-
-![Tweet Type Analysis](outputs/tweet_type_sentiment.png)
-
----
 
 ## Key Findings
 
@@ -103,4 +86,22 @@ This project demonstrates how sentiment analysis can support:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+---
+
+## Key Visual Insights
+
+### Sentiment Distribution
+
+![Sentiment Distribution](outputs/sentiment_distribution.png)
+
+### Average Engagement by Sentiment
+
+![Engagement by Sentiment](outputs/engagement_by_sentiment.png)
+
+### Sentiment by Tweet Type
+
+![Tweet Type Analysis](outputs/tweet_type_sentiment.png)
+
+---
 
